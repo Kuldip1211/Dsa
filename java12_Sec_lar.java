@@ -38,7 +38,7 @@ public class java12_Sec_lar {
   // System.out.println("Secound largest:=" + secound_largest);
 
 
-  // secound approch 
+  // secound approch with out a sorting 
 
   for (int i = 0; i < arr.length; i++) {
    if (arr[i]> largest) {
